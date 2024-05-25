@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is week 1. To link the git hub codespace in VS code.
+This will include the study work that i'm gonna do related to ML productions.
